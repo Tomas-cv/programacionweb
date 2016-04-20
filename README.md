@@ -6,5 +6,6 @@
 <?PHP
  echo "Estoy probando esto";
  ?>
+ puf
  </body>
  </html>
